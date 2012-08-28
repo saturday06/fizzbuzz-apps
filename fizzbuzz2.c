@@ -1,6 +1,4 @@
-#include <stdio.h>
-
 int main() {
-    asm (".byte 0xd6");
+    asm ("fizzbuzz");
     return 0;
 }
